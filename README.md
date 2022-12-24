@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnanyaBellippady
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Django and ASP.NET MVC
-
-- 📫 How to reach me ananya.2403@gmail.com
+- 🌱 I work on ASP.NET, C#, React, Azure skills
+- 📫 How to reach me ananya.2403@outlook.com
 
 <!---
 AnanyaBellippady/AnanyaBellippady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
